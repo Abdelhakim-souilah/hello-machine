@@ -1,0 +1,8 @@
+Package: hello-machine
+Version: 1.0-1
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: abdelhakim-souilah 
+Description: Prints a greeting with the machine's hostname.
+ A simple script that displays "Hello from [hostname]".
